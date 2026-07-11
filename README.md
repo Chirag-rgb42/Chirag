@@ -1,4 +1,4 @@
 # Chirag
 this is my first ever Repository.
 <br>
-Author - Chirag Suthar
+Author - MR.Chirag Suthar 
